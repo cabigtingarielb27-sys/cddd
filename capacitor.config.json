@@ -1,0 +1,8 @@
+{
+  "appId": "com.walletx.demo",
+  "appName": "WalletX",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
